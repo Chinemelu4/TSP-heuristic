@@ -7,8 +7,8 @@ This command-line tool is designed to determine the shortest distance to visit a
 Make sure you have Python installed on your machine. Clone this repository or download the script directly.
 
 ```bash
-git clone https://github.com/your-username/tsp-solver.git
-cd tsp-solver
+git clone https://github.com/Chinemelu4/TSP-heuristic.git
+cd TSP-heuristic
 ```
 
 ## Usage
