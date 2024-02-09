@@ -1,4 +1,4 @@
-name: heuristics
+name: TSP-heuristic
 dependencies:
   - pip
   - python=3.9
